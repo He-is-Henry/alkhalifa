@@ -1,0 +1,2203 @@
+{
+  "meta": {
+    "curriculum": "NERDC/Lagos State Unified Scheme of Work",
+    "version": "2023-revised",
+    "source": "syllabus.ng / classbasic.com"
+  },
+  "classes": [
+    {
+      "id": "basic1",
+      "label": "Basic 1",
+      "level": "lower",
+      "subjects": [
+        {
+          "id": "english",
+          "label": "English Studies",
+          "color": "#1a6b3c",
+          "icon": "book-open",
+          "terms": [
+            {
+              "term": 1,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Vocabulary: New Words & Meaning",
+                  "objectives": [
+                    "Explain meaning of new words contextually",
+                    "Use new vocabulary in speech",
+                    "Master 50-100 new words"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "Writing: Alphabet (Upper & Lower Case)",
+                  "objectives": [
+                    "Match upper case to lower case letters",
+                    "Write alphabet in both cases",
+                    "Write words/sentences in different cases"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Phonics: Rhyming Words & One Syllable Words",
+                  "objectives": [
+                    "Blend sounds to form one syllable words",
+                    "Recognize words with same letter sounds",
+                    "Identify rhyming words",
+                    "Recite poems and rhymes"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Phonics: Build Rhyming Word Families",
+                  "objectives": [
+                    "Recite/sing rhymes and songs",
+                    "Identify letter sounds in songs",
+                    "Recognize rhyming words",
+                    "Build rhyming word families"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Phonics: Songs and Rhymes; Structure: Matching Words and Figures",
+                  "objectives": [
+                    "Recite/sing rhymes and songs",
+                    "Identify figures by their spellings",
+                    "Write figures in words"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Structure: Nouns (People, Places, Things); Vocabulary: Objects at Home",
+                  "objectives": [
+                    "Identify nouns",
+                    "Classify nouns as people, places, things",
+                    "Name objects at home"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": ["Revise all topics covered so far"]
+                },
+                {
+                  "week": 8,
+                  "topic": "Reading: Simple Sentences; Comprehension: Short Passage",
+                  "objectives": [
+                    "Read simple sentences aloud",
+                    "Answer questions on a short passage",
+                    "Deduce main idea from passage"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Structure: Pronouns (I, You, He, She, We, They)",
+                  "objectives": [
+                    "Identify personal pronouns",
+                    "Use pronouns correctly in sentences",
+                    "Distinguish subject pronouns"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Writing: Composition — Describe Yourself",
+                  "objectives": [
+                    "Write 5 simple sentences about themselves",
+                    "Use correct punctuation",
+                    "Use capital letters appropriately"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 2,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of First Term's Work",
+                  "objectives": [
+                    "Review vocabulary, phonics and structures from Term 1"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "Phonics: Vowel Sounds (a, e, i, o, u)",
+                  "objectives": [
+                    "Identify vowel sounds",
+                    "Distinguish vowels from consonants",
+                    "Use vowels in words"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Structure: Verbs (Action Words)",
+                  "objectives": [
+                    "Identify action words/verbs",
+                    "Use verbs in simple sentences",
+                    "Act out verbs physically"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Vocabulary: Animals and Their Sounds",
+                  "objectives": [
+                    "Name common animals",
+                    "Match animals to their sounds",
+                    "Write sentences about animals"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Reading: Pictorial Reading — Animals",
+                  "objectives": [
+                    "Deduce information from pictures",
+                    "Answer questions on pictorial passage",
+                    "Relate passage to everyday life"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Structure: Adjectives (Describing Words)",
+                  "objectives": [
+                    "Identify adjectives",
+                    "Use adjectives to describe nouns",
+                    "Build sentences with adjectives"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": ["Revise all topics covered so far"]
+                },
+                {
+                  "week": 8,
+                  "topic": "Writing: Composition — My Family",
+                  "objectives": [
+                    "Write simple sentences about family",
+                    "Use pronouns correctly",
+                    "Use capital letters at start of sentences"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Phonics: Consonant Blends (bl, cl, fl, pl)",
+                  "objectives": [
+                    "Identify consonant blends",
+                    "Blend sounds to form words",
+                    "Read words with consonant blends"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Comprehension: Short Story — The Good Boy",
+                  "objectives": [
+                    "Read a short story",
+                    "Answer comprehension questions",
+                    "Retell story in own words"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 3,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of Second Term's Work",
+                  "objectives": ["Review all term 2 topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Structure: Singular and Plural Nouns",
+                  "objectives": [
+                    "Identify singular and plural nouns",
+                    "Form plurals by adding -s or -es",
+                    "Use correctly in sentences"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Phonics: Word Endings (-ing, -ed, -er)",
+                  "objectives": [
+                    "Identify common word endings",
+                    "Add endings to base words",
+                    "Use in sentences"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Vocabulary: Food and Nutrition Words",
+                  "objectives": [
+                    "Name common foods",
+                    "Classify foods as healthy/unhealthy",
+                    "Write sentences about food"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Reading: Comprehension — At the Market",
+                  "objectives": [
+                    "Read a market-themed passage",
+                    "Answer questions on the passage",
+                    "Identify new vocabulary"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Writing: Guided Composition — A Day at School",
+                  "objectives": [
+                    "Write 5-7 sentences about school day",
+                    "Sequence events correctly",
+                    "Use connectives: first, then, finally"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": ["Revise all topics covered this term"]
+                },
+                {
+                  "week": 8,
+                  "topic": "Structure: Question Words (Who, What, Where, When)",
+                  "objectives": [
+                    "Identify question words",
+                    "Form simple questions",
+                    "Answer questions correctly"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Phonics: Digraphs (sh, ch, th, wh)",
+                  "objectives": [
+                    "Identify digraphs in words",
+                    "Read words with digraphs",
+                    "Write words containing digraphs"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Revision and Exam Preparation",
+                  "objectives": [
+                    "Revise all topics from the year",
+                    "Practice past questions",
+                    "Prepare for examinations"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mathematics",
+          "label": "Mathematics",
+          "color": "#b5451b",
+          "icon": "calculator",
+          "terms": [
+            {
+              "term": 1,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Whole Numbers: Counting 1–10; Writing Numbers 1–10",
+                  "objectives": [
+                    "Identify numbers from 1-10",
+                    "Count objects from 1-10",
+                    "Apply numbers in real life situations",
+                    "Categorize different objects"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "Whole Numbers: Counting 11–20; Writing Numbers 1–20",
+                  "objectives": [
+                    "Identify and count numbers 11-20",
+                    "Write numbers 11-20 in numerals",
+                    "Apply numbers in real life",
+                    "Rote count up to 20 and 20-1"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Whole Numbers: Reverse Counting; Numbers 1–20",
+                  "objectives": [
+                    "Count numbers 1-20 and 20-1",
+                    "Write numbers 1-20 in numerals",
+                    "Identify numbers 1-20"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Whole Numbers: Numbers 21–30; Writing in Words (1–10)",
+                  "objectives": [
+                    "Identify numbers from 21-30",
+                    "Count objects from 21-30",
+                    "Write numbers 1-30 in ascending/descending order",
+                    "Write numbers 1-10 in words"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Whole Numbers: Numbers 31–40; Introduction to Zero",
+                  "objectives": [
+                    "Identify numbers from 31-40",
+                    "Write numbers 31-40 in numerals",
+                    "Relate with the symbol 0 as a number",
+                    "Differentiate number 0 from letter O"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Comparing & Ordering Numbers; Numbers 41–50",
+                  "objectives": [
+                    "Count and identify numbers 41-50",
+                    "Identify numbers on a number line",
+                    "Compare value of numbers",
+                    "Identify equal to sign (=)"
+                  ]
+                },
+                { "week": 7, "topic": "Mid-Term Break", "objectives": [] },
+                {
+                  "week": 8,
+                  "topic": "Revision: Numbers 21–50; Skip Counting in 2s",
+                  "objectives": [
+                    "Identify numbers from 21-50",
+                    "Arrange numbers in order of magnitude",
+                    "Skip count in 2s",
+                    "Practice reverse counting"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Numbers 51–60; Introduction to Addition",
+                  "objectives": [
+                    "Count and identify numbers 51-60",
+                    "Explain term 'addition' and its sign (+)",
+                    "Add zero to any number",
+                    "Add two whole numbers with sum not more than 10"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Comparing Numbers 1–50; Numbers 61–70",
+                  "objectives": [
+                    "Count and identify numbers 61-70",
+                    "Compare numbers using more than/less than/equal to",
+                    "Count in 2s and 10s",
+                    "Practice adding numbers with sum not more than 10"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 2,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of First Term's Work; Numbers 1–70",
+                  "objectives": [
+                    "Count and write numbers 1-70",
+                    "Add two 1-digit numbers with sum not more than 10",
+                    "Describe value of zero in addition"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "Addition of Numbers; Numbers 71–80",
+                  "objectives": [
+                    "Count and identify numbers 71-80",
+                    "Add whole numbers with sum not more than 20",
+                    "Add three whole numbers with sum not more than 20",
+                    "Skip count in 2s and 3s"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Introduction to Subtraction; Numbers 81–90",
+                  "objectives": [
+                    "Count and identify numbers 81-90",
+                    "Explain subtraction and its sign (-)",
+                    "Subtract zero from any number",
+                    "Subtract two whole numbers within 10"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Numbers 51–100; Addition and Subtraction Practice",
+                  "objectives": [
+                    "Count and identify numbers 51-100",
+                    "Skip count in 2s and 10s from 1-100",
+                    "Practice addition with sum not more than 20",
+                    "Subtraction of numbers within 20"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Addition: Numbers 101–110; Fact Families",
+                  "objectives": [
+                    "Identify numbers from 101-110",
+                    "Add whole numbers with sum not more than 20",
+                    "Identify fact families in addition",
+                    "Skip count in 2s, 3s and 10s"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Subtraction: Numbers 110–120; Number Line",
+                  "objectives": [
+                    "Count and identify numbers 110-120",
+                    "Subtract numbers on a number line",
+                    "Apply subtraction in real life",
+                    "Count forward and backward"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": ["Revise all topics covered so far"]
+                },
+                {
+                  "week": 8,
+                  "topic": "Shapes: 2D Shapes (Circle, Square, Triangle, Rectangle)",
+                  "objectives": [
+                    "Identify 2D shapes",
+                    "Name properties of 2D shapes",
+                    "Draw and colour 2D shapes",
+                    "Identify 2D shapes in environment"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Measurement: Length (Long/Short, Tall/Short)",
+                  "objectives": [
+                    "Compare lengths using non-standard units",
+                    "Arrange objects by length",
+                    "Use words: long, short, longer, shorter"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Measurement: Weight (Heavy/Light)",
+                  "objectives": [
+                    "Compare weights using non-standard units",
+                    "Distinguish heavy from light objects",
+                    "Arrange objects by weight"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 3,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of Second Term's Work",
+                  "objectives": ["Review all Term 2 topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Multiplication: Concept of Multiplication",
+                  "objectives": [
+                    "Explain multiplication as repeated addition",
+                    "Multiply numbers by 2",
+                    "Use multiplication sign (×)"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Multiplication: Tables of 2 and 3",
+                  "objectives": [
+                    "Recite multiplication tables for 2 and 3",
+                    "Write multiplication facts",
+                    "Apply tables in real life"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Division: Concept of Sharing/Division",
+                  "objectives": [
+                    "Explain division as equal sharing",
+                    "Divide objects into equal groups",
+                    "Use division sign (÷)"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "3D Shapes: Cube, Cuboid, Cylinder, Sphere",
+                  "objectives": [
+                    "Identify 3D shapes",
+                    "Name everyday objects with 3D shapes",
+                    "Describe properties of 3D shapes"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Money: Identification of Nigerian Coins and Notes",
+                  "objectives": [
+                    "Identify Nigerian coins and notes",
+                    "State the value of each coin/note",
+                    "Practice simple addition with money"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": ["Revise all topics covered this term"]
+                },
+                {
+                  "week": 8,
+                  "topic": "Time: Days of the Week, Months of the Year",
+                  "objectives": [
+                    "Name days of the week in order",
+                    "Name months of the year",
+                    "Read time on clock to the hour"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Fractions: Half and Quarter",
+                  "objectives": [
+                    "Identify half of a whole",
+                    "Identify a quarter of a whole",
+                    "Apply fractions in real life"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Revision and Exam Preparation",
+                  "objectives": [
+                    "Revise all topics from the year",
+                    "Practice quantitative reasoning",
+                    "Prepare for examinations"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "basic-science",
+          "label": "Basic Science & Technology",
+          "color": "#1a5c8a",
+          "icon": "flask",
+          "terms": [
+            {
+              "term": 1,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Myself: Parts of the Body",
+                  "objectives": [
+                    "Identify parts of the body",
+                    "State functions of body parts",
+                    "Draw and label body parts"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "My Senses: Sight, Hearing, Smell, Taste, Touch",
+                  "objectives": [
+                    "Identify the five senses",
+                    "Match sense organs to their functions",
+                    "Use senses to explore environment"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Living and Non-Living Things",
+                  "objectives": [
+                    "Distinguish living from non-living things",
+                    "Give examples of each",
+                    "State characteristics of living things"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Plants Around Us: Types and Uses",
+                  "objectives": [
+                    "Identify types of plants",
+                    "State uses of plants",
+                    "Grow a simple seed"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Animals Around Us: Types and Uses",
+                  "objectives": [
+                    "Identify common animals",
+                    "Classify domestic and wild animals",
+                    "State uses of animals to man"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Water: Sources and Uses",
+                  "objectives": [
+                    "Identify sources of water",
+                    "State uses of water",
+                    "Identify ways water can be polluted"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Air: Properties and Uses",
+                  "objectives": [
+                    "Explain that air is all around us",
+                    "State properties of air",
+                    "Identify uses of air"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Soil: Types and Uses",
+                  "objectives": [
+                    "Identify types of soil",
+                    "State uses of soil",
+                    "Conduct simple soil activity"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Food: Types and Importance",
+                  "objectives": [
+                    "Name types of food",
+                    "Classify foods by food groups",
+                    "State importance of eating balanced diet"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 2,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of First Term's Work",
+                  "objectives": ["Review all first term topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Weather: Types of Weather",
+                  "objectives": [
+                    "Identify types of weather (sunny, rainy, cloudy, windy)",
+                    "Describe effects of weather",
+                    "Keep a simple weather chart"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Simple Machines: Lever, Wheel, Pulley",
+                  "objectives": [
+                    "Identify simple machines",
+                    "State uses of simple machines",
+                    "Give examples from daily life"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Light: Sources of Light",
+                  "objectives": [
+                    "Identify natural and artificial sources of light",
+                    "State importance of light",
+                    "Explain what happens in darkness"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Sound: Sources and Types",
+                  "objectives": [
+                    "Identify sources of sound",
+                    "Distinguish pleasant from unpleasant sounds",
+                    "Explain uses of sound"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Health: Personal Hygiene",
+                  "objectives": [
+                    "State habits of good personal hygiene",
+                    "Explain why hygiene is important",
+                    "Practice hand-washing steps"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Information Technology: Introduction to Computer",
+                  "objectives": [
+                    "Identify parts of a computer",
+                    "State uses of a computer",
+                    "Handle computer components carefully"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Information Technology: Uses of Mobile Devices",
+                  "objectives": [
+                    "Identify mobile devices",
+                    "State positive uses of mobile devices",
+                    "Discuss safe use of devices"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Physical Education: Exercise and Fitness",
+                  "objectives": [
+                    "State benefits of exercise",
+                    "Perform simple physical exercises",
+                    "Understand importance of rest"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 3,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of Second Term's Work",
+                  "objectives": ["Review all second term topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Environment: Keeping Our Environment Clean",
+                  "objectives": [
+                    "State ways to keep environment clean",
+                    "Identify consequences of dirty environment",
+                    "Practice proper waste disposal"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Safety: Road Safety Rules",
+                  "objectives": [
+                    "State basic road safety rules",
+                    "Identify traffic signs",
+                    "Practice safe road-crossing habits"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Safety: Home Safety Rules",
+                  "objectives": [
+                    "Identify dangerous items at home",
+                    "State rules for home safety",
+                    "Know who to call in emergencies"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Technology: Simple Tools and Their Uses",
+                  "objectives": [
+                    "Identify simple tools",
+                    "State uses of tools",
+                    "Handle tools safely"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Human Body: Growth and Development",
+                  "objectives": [
+                    "Describe stages of human growth",
+                    "State factors that affect growth",
+                    "Appreciate proper nutrition for growth"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Disease Prevention: Common Childhood Diseases",
+                  "objectives": [
+                    "Name common childhood diseases",
+                    "State ways of preventing them",
+                    "Know importance of immunisation"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Energy: Forms of Energy",
+                  "objectives": [
+                    "Identify forms of energy (light, heat, sound)",
+                    "Give examples of each",
+                    "State uses of energy"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Revision and Exam Preparation",
+                  "objectives": [
+                    "Revise all topics from the year",
+                    "Practice past questions",
+                    "Prepare for examinations"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "national-values",
+          "label": "National Values Education",
+          "color": "#7a3b8c",
+          "icon": "flag",
+          "terms": [
+            {
+              "term": 1,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Social Studies: My Family",
+                  "objectives": [
+                    "Identify members of a family",
+                    "State roles of each family member",
+                    "Appreciate the importance of family"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "Social Studies: My Home",
+                  "objectives": [
+                    "Describe their home",
+                    "Identify items in the home",
+                    "State importance of a home"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Social Studies: My School",
+                  "objectives": [
+                    "Identify parts of a school",
+                    "Name school officials and their duties",
+                    "Appreciate the importance of school"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Civic Education: Rules and Regulations",
+                  "objectives": [
+                    "Define rules and regulations",
+                    "Give examples of rules at home and school",
+                    "Explain why rules are important"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Security Education: Personal Safety",
+                  "objectives": [
+                    "Identify safe and unsafe situations",
+                    "Know trusted adults to report to",
+                    "Practice personal safety habits"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Social Studies: My Community",
+                  "objectives": [
+                    "Describe their community",
+                    "Name community helpers",
+                    "State how to be a good community member"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Civic Education: Rights and Responsibilities",
+                  "objectives": [
+                    "State basic rights of a child",
+                    "State responsibilities of a pupil",
+                    "Appreciate civic duties"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Social Studies: Nigerian Culture — Food, Dress, Festivals",
+                  "objectives": [
+                    "Identify Nigerian cultural practices",
+                    "Name foods, dress styles, and festivals",
+                    "Appreciate cultural diversity"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Security Education: Stranger Danger",
+                  "objectives": [
+                    "Define a stranger",
+                    "State rules for dealing with strangers",
+                    "Know what to do when lost"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 2,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of First Term's Work",
+                  "objectives": ["Review all term 1 topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Social Studies: Transportation",
+                  "objectives": [
+                    "Identify means of transportation",
+                    "Classify transport by land, air, water",
+                    "State importance of transportation"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Social Studies: Communication",
+                  "objectives": [
+                    "Identify means of communication",
+                    "State importance of communication",
+                    "Give traditional and modern examples"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Civic Education: National Symbols",
+                  "objectives": [
+                    "Identify Nigerian national symbols",
+                    "State meaning of each symbol",
+                    "Show respect for national symbols"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "History: Nigeria — Our Country",
+                  "objectives": [
+                    "Name Nigeria as their country",
+                    "Identify the capital city",
+                    "Name major states and landmarks"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Security Education: Cybersafety Basics",
+                  "objectives": [
+                    "Understand basic online safety",
+                    "Know not to share personal info online",
+                    "Report uncomfortable online situations to adults"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Social Studies: Occupations",
+                  "objectives": [
+                    "Identify different occupations",
+                    "Match occupations to tools",
+                    "Appreciate all forms of work"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Civic Education: Democracy and Leadership",
+                  "objectives": [
+                    "Explain what a leader does",
+                    "Identify leaders in school and community",
+                    "Understand simple democratic processes"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Social Studies: Map Reading — Nigeria Map",
+                  "objectives": [
+                    "Identify Nigeria on a map",
+                    "Locate their state on map",
+                    "State the six geopolitical zones"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 3,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of Second Term's Work",
+                  "objectives": ["Review all term 2 topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Social Studies: The Environment",
+                  "objectives": [
+                    "Describe the environment",
+                    "State how to protect environment",
+                    "Identify environmental problems"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Civic Education: Obedience to Authority",
+                  "objectives": [
+                    "Define authority",
+                    "Give examples of authority figures",
+                    "Explain why we obey rules"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "History: Nigerian Heroes Past and Present",
+                  "objectives": [
+                    "Name Nigerian heroes and heroines",
+                    "State their contributions",
+                    "Appreciate their sacrifices"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Security Education: Fire Safety",
+                  "objectives": [
+                    "Identify fire hazards",
+                    "State ways to prevent fire",
+                    "Know fire safety procedures"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Social Studies: Culture and Values",
+                  "objectives": [
+                    "Define culture",
+                    "Identify good cultural values",
+                    "Appreciate cultural similarities and differences"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Civic Education: Patriotism",
+                  "objectives": [
+                    "Define patriotism",
+                    "State ways to show love for Nigeria",
+                    "Sing national anthem and recite pledge"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "History: Nigerian Independence",
+                  "objectives": [
+                    "State the date of Nigerian independence",
+                    "Name independence leaders",
+                    "Appreciate freedom and independence"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Revision and Exam Preparation",
+                  "objectives": [
+                    "Revise all topics from the year",
+                    "Practice past questions"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cultural-creative-arts",
+          "label": "Cultural & Creative Arts",
+          "color": "#c17f24",
+          "icon": "palette",
+          "terms": [
+            {
+              "term": 1,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Art: Drawing — Lines and Shapes",
+                  "objectives": [
+                    "Draw horizontal, vertical, diagonal lines",
+                    "Draw basic shapes",
+                    "Use pencil correctly"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "Art: Colouring — Primary Colours",
+                  "objectives": [
+                    "Identify primary colours",
+                    "Colour within lines",
+                    "Mix colours to form secondary colours"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Music: Rhythm and Beat",
+                  "objectives": [
+                    "Identify rhythm in music",
+                    "Clap to a beat",
+                    "Sing simple Nigerian folk songs"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Drama: Role Play — Family Life",
+                  "objectives": [
+                    "Participate in role play",
+                    "Portray family roles",
+                    "Express emotions through drama"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Art: Paper Craft — Folding and Cutting",
+                  "objectives": [
+                    "Fold paper into basic shapes",
+                    "Cut along lines safely",
+                    "Create simple paper crafts"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Music: Nigerian Folk Songs",
+                  "objectives": [
+                    "Learn Nigerian folk songs",
+                    "Identify instruments in songs",
+                    "Appreciate cultural music heritage"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Art: Clay Modelling",
+                  "objectives": [
+                    "Mould basic shapes with clay",
+                    "Create simple objects",
+                    "Appreciate 3D art forms"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Dance: Basic Dance Steps",
+                  "objectives": [
+                    "Perform basic dance steps",
+                    "Coordinate movement with music",
+                    "Appreciate Nigerian dance traditions"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Drama: Story Telling and Dramatization",
+                  "objectives": [
+                    "Listen to and retell stories",
+                    "Dramatize a short story",
+                    "Use voice and gesture in performance"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 2,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of First Term's Work",
+                  "objectives": ["Review all term 1 creative activities"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Art: Drawing — Still Life (Fruits)",
+                  "objectives": [
+                    "Draw fruits from observation",
+                    "Use shading techniques",
+                    "Appreciate form and proportion"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Music: Musical Instruments — Local and Foreign",
+                  "objectives": [
+                    "Identify local musical instruments",
+                    "Identify foreign instruments",
+                    "Match instruments to their sounds"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Art: Printing — Leaf and Thumb Printing",
+                  "objectives": [
+                    "Create leaf prints",
+                    "Create thumb prints",
+                    "Appreciate printing as an art form"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Drama: Choral Speaking",
+                  "objectives": [
+                    "Participate in choral speaking",
+                    "Use voice expressively",
+                    "Learn Nigerian proverbs and riddles"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Art: Weaving and Fabric Design",
+                  "objectives": [
+                    "Create simple weaving patterns",
+                    "Identify Nigerian fabric designs",
+                    "Appreciate textile arts"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Music: Songs for Seasons and Celebrations",
+                  "objectives": [
+                    "Learn songs for different occasions",
+                    "Understand context of celebration songs",
+                    "Perform songs with actions"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Art: Collage Making",
+                  "objectives": [
+                    "Create collage from natural materials",
+                    "Arrange and glue materials creatively",
+                    "Describe their collage"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Dance: Performing Arts — Combined Performance",
+                  "objectives": [
+                    "Combine song, dance, and drama",
+                    "Perform as a group",
+                    "Appreciate teamwork in performance"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 3,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of Second Term's Work",
+                  "objectives": ["Review all term 2 activities"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Art: Mosaic Design",
+                  "objectives": [
+                    "Create mosaic patterns with paper pieces",
+                    "Use colour to create patterns",
+                    "Understand mosaic as an art form"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Music: Beat and Tempo",
+                  "objectives": [
+                    "Distinguish fast and slow tempos",
+                    "Clap rhythms at different tempos",
+                    "Use percussion instruments"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Drama: Puppetry",
+                  "objectives": [
+                    "Create simple hand puppets",
+                    "Perform a puppet show",
+                    "Voice characters in puppetry"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Art: Poster Making",
+                  "objectives": [
+                    "Design a simple poster",
+                    "Use colour and text effectively",
+                    "Share message through visual art"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Music: National Anthem and State Anthem",
+                  "objectives": [
+                    "Sing national anthem correctly",
+                    "Understand meaning of anthem",
+                    "Sing state anthem"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Dance: Cultural Dance Showcase",
+                  "objectives": [
+                    "Perform a cultural dance",
+                    "Identify the culture of origin",
+                    "Appreciate diversity through dance"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Art: End-of-Year Art Exhibition Preparation",
+                  "objectives": [
+                    "Prepare artwork for display",
+                    "Present and explain artwork",
+                    "Appreciate peers' work"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Revision and Exam Preparation",
+                  "objectives": ["Revise all topics from the year"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "physical-health-education",
+          "label": "Physical & Health Education",
+          "color": "#2d7a4f",
+          "icon": "activity",
+          "terms": [
+            {
+              "term": 1,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Introduction to Physical Education: Benefits of Exercise",
+                  "objectives": [
+                    "State benefits of exercise",
+                    "Identify types of exercise",
+                    "Perform warm-up exercises"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "Health: Personal Hygiene — Bathing, Brushing, Nail Cutting",
+                  "objectives": [
+                    "State importance of personal hygiene",
+                    "Practice correct hand-washing",
+                    "Maintain clean uniform and body"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Athletics: Running and Jumping",
+                  "objectives": [
+                    "Practice correct running posture",
+                    "Perform long and high jumps",
+                    "Participate in relay games"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Ball Games: Catching and Throwing",
+                  "objectives": [
+                    "Catch a ball with both hands",
+                    "Throw a ball accurately",
+                    "Play simple ball games in groups"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Health: Nutrition — Balanced Diet",
+                  "objectives": [
+                    "Identify food groups",
+                    "State importance of balanced diet",
+                    "Identify locally available foods for each group"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Gymnastics: Rolling and Balancing",
+                  "objectives": [
+                    "Perform forward roll safely",
+                    "Balance on one leg",
+                    "Perform simple gymnastic movements"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Games: Indigenous Games (Ayo, Ten-Ten, Suwe)",
+                  "objectives": [
+                    "Play Nigerian indigenous games",
+                    "Follow game rules",
+                    "Appreciate cultural play"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Health: Disease Prevention — Common Cold, Malaria",
+                  "objectives": [
+                    "Identify symptoms of common diseases",
+                    "State ways to prevent them",
+                    "Understand importance of going to hospital"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Athletics: Sports Day Preparation",
+                  "objectives": [
+                    "Practice athletics events",
+                    "Demonstrate sportsmanship",
+                    "Participate in team events"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 2,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of First Term's Work",
+                  "objectives": [
+                    "Review all first term health and physical activities"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "Swimming/Water Safety Awareness",
+                  "objectives": [
+                    "State basic water safety rules",
+                    "Identify safe places to swim",
+                    "Know what to do in water emergencies"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Health: Dental Health and Eye Care",
+                  "objectives": [
+                    "Practice correct brushing technique",
+                    "State importance of dental visits",
+                    "Know habits that protect eyesight"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Athletics: Relay Race",
+                  "objectives": [
+                    "Practice baton passing in relay",
+                    "Understand relay race rules",
+                    "Run cooperatively as a team"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Games: Team Sports — Modified Football",
+                  "objectives": [
+                    "Understand basic football rules",
+                    "Practice dribbling and passing",
+                    "Play cooperatively in teams"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Health: First Aid Basics",
+                  "objectives": [
+                    "Identify a first aid box",
+                    "State when to call for help",
+                    "Apply basic first aid for cuts"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Gymnastics: Skipping and Coordination",
+                  "objectives": [
+                    "Skip rope with coordination",
+                    "Perform coordination exercises",
+                    "Improve agility and balance"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Health: Drug Abuse Awareness",
+                  "objectives": [
+                    "Define drugs and medicines",
+                    "Distinguish between medicine and drug abuse",
+                    "Know dangers of taking medicine without prescription"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Athletics: Track and Field Events",
+                  "objectives": [
+                    "Participate in track and field",
+                    "Demonstrate correct techniques",
+                    "Celebrate sportsmanship"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 3,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of Second Term's Work",
+                  "objectives": ["Review all term 2 topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Health: Environmental Health",
+                  "objectives": [
+                    "State importance of clean environment",
+                    "Identify health hazards in environment",
+                    "Practice environmental health habits"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Games: Badminton — Introduction",
+                  "objectives": [
+                    "Identify badminton equipment",
+                    "Practice basic badminton strokes",
+                    "Play modified badminton"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Athletics: Long Jump Technique",
+                  "objectives": [
+                    "Demonstrate long jump approach",
+                    "Practice take-off and landing",
+                    "Measure jump distances"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Health: Emotional Wellbeing — Managing Feelings",
+                  "objectives": [
+                    "Identify different emotions",
+                    "Express emotions appropriately",
+                    "Practice calming strategies"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Games: Modified Basketball/Netball",
+                  "objectives": [
+                    "Understand basic rules",
+                    "Practice shooting and passing",
+                    "Play as a team"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Health: Reproductive Health — Appropriate Touch",
+                  "objectives": [
+                    "Identify private parts",
+                    "State rules about appropriate touch",
+                    "Know trusted adults to report to"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Athletics: Cross Country Fun Run",
+                  "objectives": [
+                    "Run a short cross country route",
+                    "Practice pacing",
+                    "Celebrate completion and effort"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Revision and Exam Preparation",
+                  "objectives": ["Revise all topics from the year"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "religious-studies",
+          "label": "CRS / Islamic Studies",
+          "color": "#5c4a1e",
+          "icon": "book",
+          "terms": [
+            {
+              "term": 1,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "CRS: God as Creator / IS: Allah the Creator",
+                  "objectives": [
+                    "Acknowledge God/Allah as Creator",
+                    "Name things God/Allah created",
+                    "Express gratitude for creation"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "CRS: The Bible / IS: The Quran — Holy Books",
+                  "objectives": [
+                    "Identify the holy book",
+                    "State importance of the holy book",
+                    "Handle holy books with reverence"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "CRS: The Family of Jesus / IS: Family of Prophet Muhammad (SAW)",
+                  "objectives": [
+                    "Learn about the Holy Family",
+                    "Apply family values taught in religion",
+                    "Practice love and respect in family"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "CRS: Love for One Another / IS: Brotherhood in Islam",
+                  "objectives": [
+                    "Define love and brotherhood",
+                    "Give examples of showing love",
+                    "Practice acts of kindness"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "CRS: The Good Samaritan / IS: Helping Others",
+                  "objectives": [
+                    "Retell the Good Samaritan story",
+                    "Apply its lesson to daily life",
+                    "Help classmates in need"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "CRS: Obedience to Parents / IS: Respecting Parents (Birrul Walidayn)",
+                  "objectives": [
+                    "State why we obey parents",
+                    "Give examples of obedience",
+                    "Practice respectful behaviour"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "CRS: Honesty / IS: Truthfulness (Sidq)",
+                  "objectives": [
+                    "Define honesty and truthfulness",
+                    "Give examples of honest behaviour",
+                    "Commit to being truthful"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "CRS: Prayer / IS: Salat — The Five Daily Prayers",
+                  "objectives": [
+                    "Understand importance of prayer",
+                    "Learn basic prayer practices",
+                    "Practice gratitude through prayer"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "CRS: Christmas — Birth of Jesus / IS: Mawlid — Birth of the Prophet",
+                  "objectives": [
+                    "Understand significance of the celebration",
+                    "Narrate the birth story",
+                    "Participate in celebration activities"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 2,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of First Term's Work",
+                  "objectives": ["Review all term 1 religious topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "CRS: Creation Story / IS: Surah Al-Fatiha",
+                  "objectives": [
+                    "Narrate the creation story",
+                    "Memorize Surah Al-Fatiha",
+                    "Appreciate God's/Allah's creation"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "CRS: Moses and the Burning Bush / IS: Prophet Musa (AS)",
+                  "objectives": [
+                    "Retell the story of Moses/Musa",
+                    "Identify the lesson",
+                    "Apply lesson to daily life"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "CRS: David and Goliath / IS: Prophet Dawud (AS)",
+                  "objectives": [
+                    "Narrate the story",
+                    "State the moral lesson",
+                    "Discuss courage and faith"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "CRS: Sharing and Generosity / IS: Zakah and Sadaqah",
+                  "objectives": [
+                    "Define sharing and generosity",
+                    "Discuss Zakah and Sadaqah",
+                    "Practice generosity in class"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "CRS: Cleanliness / IS: Taharah — Cleanliness in Islam",
+                  "objectives": [
+                    "State why cleanliness is important",
+                    "Practice personal cleanliness",
+                    "Relate cleanliness to worship"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "CRS: Forgiveness / IS: Forgiveness (Afw)",
+                  "objectives": [
+                    "Define forgiveness",
+                    "Discuss why we should forgive",
+                    "Practice forgiving others"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "CRS: Easter — Death and Resurrection / IS: Laylatul Qadr",
+                  "objectives": [
+                    "Understand the significance",
+                    "Narrate the story",
+                    "Appreciate sacrifice and spiritual reward"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "CRS: The Church / IS: The Mosque — Houses of Worship",
+                  "objectives": [
+                    "Describe the house of worship",
+                    "State rules of conduct in worship place",
+                    "Show reverence for sacred spaces"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 3,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of Second Term's Work",
+                  "objectives": ["Review all term 2 topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "CRS: Noah's Ark / IS: Prophet Nuh (AS)",
+                  "objectives": [
+                    "Narrate the story",
+                    "Identify the moral lesson",
+                    "Discuss obedience to God/Allah"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "CRS: Respect for All / IS: Respect in Islam (Adab)",
+                  "objectives": [
+                    "Define respect",
+                    "State how to show respect",
+                    "Practice respectful interactions"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "CRS: Contentment / IS: Qana'ah — Contentment",
+                  "objectives": [
+                    "Define contentment",
+                    "Discuss dangers of greed",
+                    "Practice being content with what one has"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "CRS: The Lord's Prayer / IS: Du'a — Supplication",
+                  "objectives": [
+                    "Learn/memorize the Lord's Prayer or a basic Du'a",
+                    "Understand meaning",
+                    "Practice daily supplication"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "CRS: Christian Values / IS: Islamic Values in Daily Life",
+                  "objectives": [
+                    "Identify core religious values",
+                    "Apply values to daily situations",
+                    "Share how values improve character"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "CRS: Heaven — God's Promise / IS: Jannah — Paradise",
+                  "objectives": [
+                    "Describe the concept of heaven/jannah",
+                    "State how to earn it",
+                    "Commit to good deeds"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "CRS: Service to God / IS: Ibadah — Worship of Allah",
+                  "objectives": [
+                    "Define service and worship",
+                    "Identify different forms of worship",
+                    "Commit to regular worship"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Revision and Exam Preparation",
+                  "objectives": ["Revise all topics from the year"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "history",
+          "label": "Nigerian History",
+          "color": "#8b1a1a",
+          "icon": "landmark",
+          "terms": [
+            {
+              "term": 1,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Introduction to History: What is History?",
+                  "objectives": [
+                    "Define history",
+                    "State why history is important",
+                    "Identify sources of history"
+                  ]
+                },
+                {
+                  "week": 2,
+                  "topic": "My Family History: Where We Come From",
+                  "objectives": [
+                    "Ask family members about family history",
+                    "Trace family roots",
+                    "Appreciate family heritage"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "My Community History",
+                  "objectives": [
+                    "Describe how their community began",
+                    "Name founding leaders",
+                    "Appreciate community development"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Nigeria: The Land and People",
+                  "objectives": [
+                    "Identify Nigeria on a map",
+                    "Name major ethnic groups",
+                    "Appreciate Nigeria's diversity"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Pre-Colonial Nigeria: Life Before British Rule",
+                  "objectives": [
+                    "Describe life in pre-colonial Nigeria",
+                    "Name great kingdoms (Benin, Oyo, Sokoto)",
+                    "Appreciate traditional governance"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Great Nigerian Kingdoms: Benin Kingdom",
+                  "objectives": [
+                    "Narrate the history of Benin Kingdom",
+                    "Identify famous Benin artefacts",
+                    "Appreciate artistic and cultural heritage"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Great Nigerian Kingdoms: Oyo Empire",
+                  "objectives": [
+                    "Narrate history of Oyo Empire",
+                    "Name notable Oyo rulers",
+                    "Appreciate Yoruba heritage"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Great Nigerian Kingdoms: Sokoto Caliphate",
+                  "objectives": [
+                    "Narrate history of Sokoto Caliphate",
+                    "Identify Usman Dan Fodio",
+                    "Appreciate northern Nigerian heritage"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Trade in Pre-Colonial Nigeria",
+                  "objectives": [
+                    "Identify goods traded in pre-colonial times",
+                    "Describe trade routes",
+                    "Explain barter system"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 2,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of First Term's Work",
+                  "objectives": ["Review all term 1 history topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Colonial Nigeria: The Coming of the British",
+                  "objectives": [
+                    "Explain what colonialism means",
+                    "State how British came to Nigeria",
+                    "Discuss effects of colonialism"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Nigerian Heroes: Resistance Against Colonial Rule",
+                  "objectives": [
+                    "Name Nigerians who resisted colonialism",
+                    "Narrate stories of resistance",
+                    "Appreciate their bravery"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Nigerian Heroes: Nnamdi Azikiwe",
+                  "objectives": [
+                    "Narrate biography of Zik",
+                    "State his contributions to Nigeria",
+                    "Appreciate his vision for Nigeria"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Nigerian Heroes: Obafemi Awolowo",
+                  "objectives": [
+                    "Narrate biography of Awolowo",
+                    "State his contributions, especially in education",
+                    "Appreciate free education policy"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Nigerian Heroes: Ahmadu Bello",
+                  "objectives": [
+                    "Narrate biography of Ahmadu Bello",
+                    "State his contributions to the north and Nigeria",
+                    "Appreciate his legacy"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Nigerian Independence: October 1, 1960",
+                  "objectives": [
+                    "State when Nigeria gained independence",
+                    "Name independence leaders",
+                    "Celebrate independence as a milestone"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Nigerian Flag and National Symbols",
+                  "objectives": [
+                    "Describe the Nigerian flag and its colours",
+                    "Name other national symbols",
+                    "Explain meaning of each symbol"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Nigerian Heroes: Women in Nigerian History",
+                  "objectives": [
+                    "Name female Nigerian heroes (Funmilayo, Madam Tinubu, etc.)",
+                    "State their contributions",
+                    "Appreciate women's roles in history"
+                  ]
+                }
+              ]
+            },
+            {
+              "term": 3,
+              "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Revision of Second Term's Work",
+                  "objectives": ["Review all term 2 topics"]
+                },
+                {
+                  "week": 2,
+                  "topic": "Nigeria After Independence: Building a New Nation",
+                  "objectives": [
+                    "Describe early years of independence",
+                    "State challenges faced",
+                    "Appreciate progress made"
+                  ]
+                },
+                {
+                  "week": 3,
+                  "topic": "Nigerian Civil War: Causes and Effects",
+                  "objectives": [
+                    "Explain what the civil war was",
+                    "State causes in simple terms",
+                    "Appreciate the importance of unity"
+                  ]
+                },
+                {
+                  "week": 4,
+                  "topic": "Military Rule in Nigeria",
+                  "objectives": [
+                    "Explain what military rule means",
+                    "Name major military leaders",
+                    "Compare military and civilian rule"
+                  ]
+                },
+                {
+                  "week": 5,
+                  "topic": "Return to Democracy: 1999",
+                  "objectives": [
+                    "State when democracy returned",
+                    "Name the first president of fourth republic",
+                    "Understand what democracy means"
+                  ]
+                },
+                {
+                  "week": 6,
+                  "topic": "Nigeria Today: Progress and Challenges",
+                  "objectives": [
+                    "Identify Nigeria's achievements",
+                    "Discuss challenges Nigeria faces",
+                    "Commit to being good citizens"
+                  ]
+                },
+                {
+                  "week": 7,
+                  "topic": "Mid-Term Break / Revision",
+                  "objectives": []
+                },
+                {
+                  "week": 8,
+                  "topic": "Nigerian Culture: Languages, Food, Festivals",
+                  "objectives": [
+                    "Name Nigerian languages and ethnic groups",
+                    "Identify cultural foods and festivals",
+                    "Celebrate diversity"
+                  ]
+                },
+                {
+                  "week": 9,
+                  "topic": "Nigeria's Role in Africa",
+                  "objectives": [
+                    "State Nigeria's position in Africa",
+                    "Name Nigerian contributions to Africa",
+                    "Appreciate Nigeria's regional leadership"
+                  ]
+                },
+                {
+                  "week": 10,
+                  "topic": "Revision and Exam Preparation",
+                  "objectives": ["Revise all topics from the year"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
