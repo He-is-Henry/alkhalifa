@@ -5,6 +5,7 @@ import { AppModule } from './app.module';
 import { JwtGuard } from './common/guards/jwt.guard';
 import { RolesGuard } from './common/guards/roles.guard';
 import { ResponseInterceptor } from './common/interceptors/response.interceptor';
+import cookieParser from 'cookie-parser';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
@@ -19,7 +20,6 @@ async function bootstrap() {
     }),
   );
 
-  // Global guards — every route protected by default
   const jwtService = app.get(JwtService);
   const reflector = app.get(Reflector);
   app.useGlobalGuards(
@@ -31,11 +31,13 @@ async function bootstrap() {
   app.useGlobalInterceptors(new ResponseInterceptor());
 
   app.enableCors({
-    origin: process.env.CLIENT_URL || '*',
+    origin: process.env.CLIENT_URL || ['http://localhost:3000'],
     credentials: true,
   });
 
-  const port = process.env.PORT || 3000;
+  app.use(cookieParser());
+
+  const port = process.env.PORT || 3500;
   await app.listen(port);
   console.log(`Server running on port ${port}`);
 }

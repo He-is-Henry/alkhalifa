@@ -1,4 +1,4 @@
-import { Body, Controller, Get, Headers, Post } from '@nestjs/common';
+import { Body, Controller, Get, Headers, Post, Req, Res } from '@nestjs/common';
 import { AuthService } from './auth.service';
 import {
   LoginDto,
@@ -10,6 +10,7 @@ import {
 import { Public } from '../common/decorators/public.decorator';
 import { CurrentUser } from '../common/decorators/current-user.decorator';
 import type { JwtPayload } from '../common/types/jwt-payload.type';
+import type { Response, Request } from 'express';
 
 @Controller('auth')
 export class AuthController {
@@ -17,8 +18,25 @@ export class AuthController {
 
   @Public()
   @Post('login')
-  login(@Body() dto: LoginDto, @Headers('user-agent') deviceInfo?: string) {
-    return this.authService.login(dto, deviceInfo);
+  async login(
+    @Body() dto: LoginDto,
+    @Headers('x-client-type') clientType: string,
+    @Res({ passthrough: true }) res: Response,
+  ) {
+    const result = await this.authService.login(dto);
+
+    if (clientType === 'web') {
+      res.cookie('refreshToken', result.refreshToken, {
+        httpOnly: true,
+        secure: true,
+        sameSite: 'strict',
+        maxAge: 4 * 24 * 60 * 60 * 1000,
+      });
+      const { refreshToken, ...rest } = result;
+      return rest;
+    }
+
+    return result;
   }
 
   @Public()
@@ -37,8 +55,32 @@ export class AuthController {
 
   @Public()
   @Post('refresh')
-  refresh(@Body() dto: RefreshDto) {
-    return this.authService.refresh(dto);
+  async refresh(
+    @Body() dto: RefreshDto,
+    @Headers('x-client-type') clientType: string,
+    @Req() req: Request,
+    @Res({ passthrough: true }) res: Response,
+  ) {
+    const cookies = req.cookies;
+    if (!cookies.refreshToken || typeof cookies.refreshToken !== 'string')
+      return;
+    const refreshToken =
+      clientType === 'web' ? cookies.refreshToken : dto.refreshToken;
+
+    const result = await this.authService.refresh({ refreshToken });
+
+    if (clientType === 'web') {
+      res.cookie('refreshToken', result.refreshToken, {
+        httpOnly: true,
+        secure: true,
+        sameSite: 'strict',
+        maxAge: 4 * 24 * 60 * 60 * 1000,
+      });
+      const { refreshToken: _, ...rest } = result;
+      return rest;
+    }
+
+    return result;
   }
 
   @Post('change-password')
@@ -56,8 +98,22 @@ export class AuthController {
   }
 
   @Post('logout')
-  logout(@Body() dto: RefreshDto) {
-    return this.authService.logout(dto.refreshToken);
+  async logout(
+    @Body() dto: RefreshDto,
+    @Headers('x-client-type') clientType: string,
+    @Req() req: Request,
+    @Res({ passthrough: true }) res: Response,
+  ) {
+    const cookies = req.cookies;
+    if (!cookies.refreshToken || typeof cookies.refreshToken !== 'string')
+      return;
+    const refreshToken =
+      clientType === 'web' ? cookies.refreshToken : dto.refreshToken;
+    if (clientType === 'web') {
+      res.clearCookie('refreshToken');
+    }
+
+    return this.authService.logout(refreshToken);
   }
 
   @Post('logout/all')

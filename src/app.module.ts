@@ -10,6 +10,7 @@ import { QuizModule } from './quiz/quiz.module';
 import { UserModule } from './user/user.module';
 import { AuthModule } from './auth/auth.module';
 import { SeedModule } from './seed/seed.module';
+import { ApplicationModule } from './application/application.module';
 
 @Module({
   imports: [
@@ -48,6 +49,7 @@ import { SeedModule } from './seed/seed.module';
     NoteModule,
     QuizModule,
     SeedModule,
+    ApplicationModule,
   ],
 })
 export class AppModule {}

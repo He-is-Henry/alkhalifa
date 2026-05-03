@@ -9,7 +9,6 @@ import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
 import * as bcrypt from 'bcrypt';
 import { ConfigService } from '@nestjs/config';
-
 import { User, UserDocument, UserRole } from '../user/user.schema';
 import { Session, SessionDocument } from './session.schema';
 import { JwtPayload } from '../common/types/jwt-payload.type';
